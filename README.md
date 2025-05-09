@@ -18,13 +18,13 @@ yarn build
 
 ## Usage
 
-Start for dev:
+Start for dev (from `src` with `babel-node` and `nodemon`):
 
 ```
 yarn start:dev
 ```
 
-Start for prod:
+Start for prod (from `dist` with `node`):
 
 ```
 yarn start:prod
